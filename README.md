@@ -1,2 +1,2 @@
 # Docker with Spring boot
-This a demo shows how to integrate spring boot with docker
+  This is a demo shows how to integrate spring boot with docker
